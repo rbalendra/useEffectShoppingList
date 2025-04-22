@@ -1,0 +1,9 @@
+.profile_btn {
+	padding: 0.6rem;
+	color: white;
+	text-decoration: none;
+	letter-spacing: 1px;
+	border-radius: 1rem;
+	background-color: rgb(12, 12, 12);
+	transition: all 0.3s;
+}
